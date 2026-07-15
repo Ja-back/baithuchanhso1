@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.box{
+    width: 500px;
+    border: 1px solid black;
+    border-bottom-right-radius: 25px;
+    margin: 20px auto;
+}
+
+a{
+    text-decoration: none;
+}
+.main-news{
+    background-color: rgba(128, 128, 128, 0.233);
+    padding: 10px;
+}
+.list{
+    padding: 25px; 
+}
+.main-news>a>img{
+    width: 100%;
+}
+.list>ul>li{
+    padding-bottom: 5px;
+}
